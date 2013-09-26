@@ -22,7 +22,6 @@
 #
 #   
 
-from bs4 import BeautifulSoup
 import urllib,re
 import numpy as np
 import netCDF4
